@@ -8,10 +8,5 @@
     "id": "produk2",
     "nama": "Script WA Bot",
     "deskripsi": "Bot WhatsApp dengan fitur auto-reply, broadcast, dan menu interaktif."
-  },
-  {
-    "id": "produk3",
-    "nama": "Panel Hosting",
-    "deskripsi": "Panel Pterodactyl siap pakai untuk VPS/Server kamu dengan tampilan modern."
   }
 ]
